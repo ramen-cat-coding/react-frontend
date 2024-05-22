@@ -1,0 +1,12 @@
+.homeWrapper {
+    min-width: 100%;
+    margin: 0 auto;
+}
+
+.textContainer {
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
