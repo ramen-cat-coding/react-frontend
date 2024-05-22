@@ -6,7 +6,7 @@ import Gallery from "../pages/Gallery.jsx"
 import Navigation from "../navigation/Navigation.jsx"
 import Services from "../pages/Services.jsx"
 import { Helmet } from 'react-helmet'
-
+//whyyyy
 
 export default function AppRouter() {
     return (
